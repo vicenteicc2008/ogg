@@ -1,8 +1,7 @@
 # Ogg library for Windows RT Devices
 i compiled this library with VS2013 for ARM32
 
-## original Redame:
-# Ogg
+## Original Readme:
 
 [![Travis Build Status](https://travis-ci.org/xiph/ogg.svg?branch=master)](https://travis-ci.org/xiph/ogg)
 [![Jenkins Build Status](https://mf4.xiph.org/jenkins/job/libogg/badge/icon)](https://mf4.xiph.org/jenkins/job/libogg/)
