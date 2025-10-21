@@ -1,5 +1,5 @@
 # Ogg library for Windows RT Devices
-i compiled this library with VS2013 for ARM32
+i compiled this library with VS2019 for ARM32 using Windows 8.1 SDK
 
 ## original Redame:
 # Ogg
